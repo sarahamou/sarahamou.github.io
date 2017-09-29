@@ -1,0 +1,41 @@
+body{
+    background-color: lightblue;
+}
+
+.card{
+    height: 250px;
+    width: 200px;
+    border: black;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); /*w3 schools card guide*/
+    margin: auto;    
+}
+
+.profile{
+    height: 200px;
+    width: 200px;
+}
+
+.footer{
+    text-align: left;
+    margin-left: 10px;
+}
+
+.footer p{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 0 0 0;
+}
+
+.footer a{
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.footer .resumeLink{
+    margin-right: 68px;
+}
+
+.resumeTable td {
+    border: 1px solid black;
+ }
